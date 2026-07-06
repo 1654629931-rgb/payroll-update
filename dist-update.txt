@@ -1,1 +1,0 @@
-[{"name":"favicon.svg","type":"file"},{"name":"assets","type":"directory"},{"name":"index.html","type":"file"},{"name":"icons.svg","type":"file"}]
